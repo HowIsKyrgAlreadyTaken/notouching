@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/HowIsKyrgAlreadyTaken/notouching/issues"
   },
-  "homepage": "https://github.com/HowIsKyrgAlreadyTaken/notouching#readme"
+  "homepage": "https://github.com/HowIsKyrgAlreadyTaken/notouching#readme",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
 }
