@@ -2,8 +2,8 @@
 
 
 module.exports = {
-    consumer_key: 'I' ,
-    consumer_secret: 'rerolled' ,
-    access_token_key: 'anyway' ,
-    access_token_secret: 'k'
+    consumer_key: '7YNuiqqwjw2PNrLOQUjeYNkVw' ,
+    consumer_secret: 'w4J1Sxq7BsodG7hDNh18OA0zpDdEcbYlcPlmJwYLtT9CJPhgOY' ,
+    access_token_key: 'suddenly_here' ,
+    access_token_secret: '789589028425302016'
 }
